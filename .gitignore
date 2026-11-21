@@ -1,0 +1,27 @@
+# Node / Environment
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Runtime
+*.log
+logs/
+
+# SQLite Journal / Temporary files (preserve sicms.db for immediate demo, or ignore WAL/shm)
+*.db-wal
+*.db-shm
+*.db-journal
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo

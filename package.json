@@ -1,0 +1,21 @@
+{
+  "name": "security-incident-system",
+  "version": "2.5.0",
+  "description": "Enterprise Security Incident Case Management System (SICMS) with Tamper-Resistant SHA-256 Chained Audit Trail and Digital Forensics Custody",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "incident-response",
+    "case-management",
+    "soc",
+    "dfir",
+    "forensics",
+    "audit-trail",
+    "sha256"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "ISC"
+}
